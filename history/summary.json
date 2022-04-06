@@ -4,7 +4,7 @@
     "url": "https://macredi20.com",
     "icon": "https://favicons.githubusercontent.com/macredi20.com",
     "slug": "macredi-2-0",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1470,
     "timeYear": 1498,
     "dailyMinutesDown": {
+      "2022-04-06": 0,
       "2022-03-17": 23,
       "2022-03-16": 16
     }
